@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@shogobg/markdown2confluence": "^0.1.7",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.2.0"
+  }
+}
